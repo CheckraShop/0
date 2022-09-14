@@ -1,91 +1,91 @@
-    ['phone_ring']				= "Your phone is ringing",
-    ['new_one_message']			= "New Message",
-    ['new_message_hotline']		= " New message to the hotline",
-    ['new_message_normal']		= " From New Message",
-    ['offline_call']		= " The person you are calling is currently unavailable.",
-    ['nophone_call']		= " The person you are calling has hung up their phone.",
-    ['blcknumber_call']		= " The other party has blocked you ",
-    ["no_item"] = "No phone",
-    ["bank_noplayer"] = "Make sure you have entered correct information",
-    ["phone_time"] = "try again later",
-	
-	-- Vale
-	["vale_get"] = "You bought your car for $ 100",
-	["vale_gete"] = "You Can Use Only One Valet Service At A Time.",
-	["vale_getr"] = "Your Vehicle Is Already Away Marked On The Map.",
-    ["vale_checmoney"] = "You owe the government more than $ 10, you can't get your car back until you've paid your fines!",
-    ["vale_fee"] = "Valet Fee",
+['phone_ring'] = "Il tuo telefono sta squillando",
+    ['new_one_message'] = "Nuovo messaggio",
+    ['new_message_hotline'] = " Nuovo messaggio alla hotline",
+    ['new_message_normal'] = "Da nuovo messaggio",
+    ['offline_call'] = "La persona che stai chiamando non è attualmente disponibile.",
+    ['nophone_call'] = "La persona che stai chiamando ha riattaccato il telefono.",
+    ['blcknumber_call'] = " L'altra parte ti ha bloccato ",
+    ["no_item"] = "Nessun telefono",
+    ["bank_noplayer"] = "Assicurati di aver inserito le informazioni corrette",
+    ["phone_time"] = "riprova più tardi",
 
-    ["car_seller"] = "Your vehicle has been towed because your vehicle has been sold.",
-    ["car_purchase"] = " Car purchase",
-    ["car_sale"] = " Car sale",
-    -- cyrpto
-    ["not_enough_money"] = "you don't have enough money",
-    ["not_enough_coin"] = "you don't have enough coin",
-    ["cyrpto_buy"] = "You bought ",
-    ["cyrpto_sell"] = "You sold ",
-    ["not_crypto"] = " you must buy first",
-    ["cyrpto_transfer"] = " Transfer done successfully",
-    ["cyrpto_transfer2"] = " Crypto Transferred to Your Account",
-    ["cyrpto_check"] = " Check the quantity",
-    ["cyrpto_notplayer"] = "Phone number not contacted",
+-- Vale
+["vale_get"] = "Hai comprato la tua auto per $ 100",
+["vale_gete"] = "Puoi utilizzare solo un servizio di ritiro e riconsegna auto alla volta.",
+["vale_getr"] = "Il tuo veicolo è già assente contrassegnato sulla mappa.",
+    ["vale_checmoney"] = "Devi al governo più di $ 10, non puoi riavere la tua auto finché non hai pagato la multa!",
+    ["vale_fee"] = "Costo del servizio di ritiro e riconsegna auto",
 
-    -- JOB Notifi
-    ["not_player"] = "No active person found in the professional unit",
-    ["job_notifi"] = "New notification came to the system",
+    ["car_seller"] = "Il tuo veicolo è stato rimorchiato perché il tuo veicolo è stato venduto.",
+    ["car_purchase"] = "Acquisto auto",
+    ["car_sale"] = " Vendita auto",
+    --cirto
+    ["not_enough_money"] = "non hai abbastanza soldi",
+    ["not_enough_coin"] = "non hai abbastanza monete",
+    ["cyrpto_buy"] = "Hai comprato",
+    ["cyrpto_sell"] = "Hai venduto",
+    ["not_crypto"] = "devi prima acquistare",
+    ["cyrpto_transfer"] = "Trasferimento eseguito con successo",
+    ["cyrpto_transfer2"] = " Criptovalute trasferite sul tuo account",
+    ["cyrpto_check"] = "Controlla la quantità",
+    ["cyrpto_notplayer"] = "Numero di telefono non contattato",
 
-    -- Race
-    ["race_distance"] = "You are away, go to the marked area",
+    -- Avvisi LAVORO
+    ["not_player"] = "Nessuna persona attiva trovata nell'unità professionale",
+    ["job_notifi"] = "Nuova notifica arrivata nel sistema",
 
-    -- Billing
-    ["bill_paid"] = "The bill has been paid $",
-    ["bill_nocash"] = "You don't have enough money.",
+    -- Gara
+    ["race_distance"] = "Sei via, vai nell'area contrassegnata",
 
-    -- Billing
-    ["carseller_ownbuy"] = "You Can't Buy Your Own Vehicle",
-    ["carseller_nobank"] = "You Don't Have Enough Money in the Bank",
+    -- Fatturazione
+    ["bill_paid"] = "Il conto è stato pagato $",
+    ["bill_nocash"] = "Non hai abbastanza soldi.",
+
+    -- Fatturazione
+    ["carseller_ownbuy"] = "Non puoi acquistare il tuo veicolo",
+    ["carseller_nobank"] = "Non hai abbastanza soldi in banca",
     
-    ["carseller_soldvehicle"] = "Your vehicle has been sold",
-    ["carseller_buyvehicle"] = "You bought the vehicle. Use for good day",
+    ["carseller_soldvehicle"] = "Il tuo veicolo è stato venduto",
+    ["carseller_buyvehicle"] = "Hai acquistato il veicolo. Usalo per una buona giornata",
 
-    -- Group Message
-    ["group_created"] = "Group created",
-    ["group_deleted"] = "The group has been deleted.",
-    ["group_newc"] = "New contact added",
-    ["group_newmes"] = " New message to the group",
-    ["group_newpeop"] = "A new person has been added to the group",
-    ["group_delpeop"] = " Left",
+    -- Messaggio di gruppo
+    ["group_created"] = "Gruppo creato",
+    ["group_deleted"] = "Il gruppo è stato eliminato.",
+    ["group_newc"] = "Nuovo contatto aggiunto",
+    ["group_newmes"] = "Nuovo messaggio al gruppo",
+    ["group_newpeop"] = "Una nuova persona è stata aggiunta al gruppo",
+    ["group_delpeop"] = " Sinistra",
 
-    -- Bank
-    ["bank_yourself"] = "You cannot transfer to your self!",
-    ["bank_nomoney"] = "Not enough money to transfer!",
-    ["bank_transfer"] = " Bank transfer was made",
-    ["bank_playertransfer"] = "Bank transfer came from ",
-    ["bank_systemnophone"] = "Phone number not registered in the system. ",
+    -- Banca
+    ["bank_yourself"] = "Non puoi trasferire a te stesso!",
+    ["bank_nomoney"] = "Denaro insufficiente per il trasferimento!",
+    ["bank_transfer"] = "È stato effettuato un bonifico bancario",
+    ["bank_playertransfer"] = "Il bonifico è arrivato da ",
+    ["bank_systemnophone"] = "Numero di telefono non registrato nel sistema. ",
 
     -- Taxi
-    ["taxi_customer"] = "Customer found",
-    ["taxi_noemployees"] = "No employees",
-    ["taxi_nomoney"] = "You don't have enough money",
-    ["taxi_gotjob"] = " got the job",
-    ["taxi_driverway"] = "Taxi driver is on the way ",
-    ["taxi_driverpicked"] = "Taxi driver picked you up from your location",
-    ["taxi_customerleft"] = "You left the customer where he/she wanted",
-    ["taxi_earnings"] = "Taxi earnings",
-    ["taxi_payment"] = "Taxi payment",
-    ["taxi_cancel"] = "Taxi canceled",
-    ["taxi_customercar"] = "You have to be in the car to receive customers",
-    ["taxi_customernotveh"] = "The customer is not in your vehicle",
-    ["taxi_customernotveh2"] = "The customer is not in the vehicle",
-    ["taxi_notcar"] = "You are not in the car",
-    ["taxi_customerloc"] = "You left the customer at the location",
+    ["taxi_customer"] = "Cliente trovato",
+    ["taxi_noemployees"] = "Nessun dipendente",
+    ["taxi_nomoney"] = "Non hai abbastanza soldi",
+    ["taxi_gotjob"] = "ho ottenuto il lavoro",
+    ["taxi_driverway"] = "Il tassista sta arrivando",
+    ["taxi_driverpicked"] = "Il tassista è venuto a prenderti dalla tua posizione",
+    ["taxi_customerleft"] = "Hai lasciato il cliente dove voleva",
+    ["taxi_earnings"] = "Guadagno taxi",
+    ["taxi_payment"] = "Pagamento taxi",
+    ["taxi_cancel"] = "Taxi annullato",
+    ["taxi_customercar"] = "Devi essere in macchina per ricevere i clienti",
+    ["taxi_customernotveh"] = "Il cliente non è nel tuo veicolo",
+    ["taxi_customernotveh2"] = "Il cliente non è nel veicolo",
+    ["taxi_notcar"] = "Non sei in macchina",
+    ["taxi_customerloc"] = "Hai lasciato il cliente nel luogo",
 
-    --Mail
-    ["email_received"] = " Email received from person",
+    --Posta
+    ["email_received"] = "E-mail ricevuta da persona",
 
     --Tinder
-    ["tinder_matched"] = "You are matched",
-    ["tinder_notusername"] = "This username is used by someone else.",
-    ["tinder_sucess"] = "Your account has been created. Good matches :)",
-    ["tinder_notlogin"] = "Login failed, wrong info!",
-    ["tinder_login"] = "Signed in",
+    ["tinder_matched"] = "Sei abbinato",
+    ["tinder_notusername"] = "Questo nome utente è utilizzato da qualcun altro.",
+    ["tinder_sucess"] = "Il tuo account è stato creato. Buone corrispondenze :)",
+    ["tinder_notlogin"] = "Accesso fallito, informazioni errate!",
+    ["tinder_login"] = "Accesso effettuato",
